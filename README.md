@@ -1,10 +1,11 @@
 <h1 align="center">Hi 👋, I'm Srijan</h1>
 <h3 align="center">A passionate fullstackdeveloper from India</h3>
 
-- 🔭 I have Worked on [PaytimePlus](https://paytimetest2.differentech.in/login)
-
+- 🔭 I have Worked on
+- 1 [PaytimePlus](https://paytimetest2.differentech.in/login)
+- 2 [RentAll](https://equipment.differentech.in/login)
+- 3 [DocSenseAI](https://docsenseaitest.differentech.in/)
 - project done using angular and springboot **know Angular 12 ,16 ,17**
-
 - 📫 How to reach me **srijancodex@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1XZHzR6v8IB9JmA5zhhMQmDSiI6UVthzC/view?usp=drivesdk](https://drive.google.com/file/d/1XZHzR6v8IB9JmA5zhhMQmDSiI6UVthzC/view?usp=drivesdk)
